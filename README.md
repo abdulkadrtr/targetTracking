@@ -1,4 +1,4 @@
-## Motion Object Tracking with OpenCV
+## Motion Target Tracking with OpenCV
 
 A motion object tracking application created using OpenCV. After running the application, select the object you want to track.
 
